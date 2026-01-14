@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SmartFile SaaS - Privacy-First Utility",
+  "description": "A high-performance, privacy-focused image compressor and resizer tool with a robust premium license system and Cloudflare Worker-backed security.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
